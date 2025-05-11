@@ -1,0 +1,2 @@
+C:/Users/ADMIN/OneDrive/Desktop/flutterproject/flutter_application/android/app/.cxx/RelWithDebInfo/3v1f603p/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/OneDrive/Desktop/flutterproject/flutter_application/android/app/.cxx/RelWithDebInfo/3v1f603p/arm64-v8a/CMakeFiles/rebuild_cache.dir
