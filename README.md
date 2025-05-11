@@ -25,3 +25,24 @@ A Flutter app built for the BharatNXT Developer Assignment. It fetches and displ
 
 3. Run the app:
    flutter run
+
+## Tech Stack
+
+- **Flutter SDK**: 3.19.5  
+- **State Management**: Provider  
+- **HTTP Client**: http  
+- **Persistence**: Not implemented
+
+---
+
+## State Management Explanation
+
+The app uses the **Provider** package for state management. The 'ArticleProvider' class handles fetching articles from the API, maintaining the list of results, applying search filters, and managing loading/error states. It uses 'notifyListeners()' to trigger UI updates whenever the article data or search input changes.
+
+---
+
+## Screenshots (Optional)
+
+> Example:
+> Home.png  
+> Details.png
