@@ -44,5 +44,5 @@ The app uses the **Provider** package for state management. The 'ArticleProvider
 ## Screenshots (Optional)
 
 > Example:
-> Home.png  
-> Details.png
+> Home.jpeg 
+> Details.jpeg
