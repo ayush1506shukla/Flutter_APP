@@ -17,7 +17,7 @@ A Flutter app built for the BharatNXT Developer Assignment. It fetches and displ
 ## Setup Instructions
 
 1. Clone the repo:
-   git clone https://github.com/ayush1506shukla/Flutter_App.git
+   git clone https://github.com/ayush1506shukla/Flutter_APP.git
    cd flutter_application
 
 2. Install dependencies:
